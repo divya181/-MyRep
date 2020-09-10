@@ -1,0 +1,17 @@
+<html>
+<head> first page </head>
+<body>
+
+<h1> hello welcome to github </h1>
+<p> -GitHub is a Git repository hosting service, with many other features in it, While Git is a command line tool.</br>
+    - it is a file or code-sharing service to collaborate with different people.</br> 
+    - it manages and stores revisions of projects. </br>
+    - mostly used for code,but also can be used to manage any other type of file, such as Word documents or Final Cut projects.</br>
+    - it is a platform where a programmer can upload his code, make a change to a project and can store them virtully.</br>
+    - both public as well as private repositories.</br>
+    - Git simplifies the process of working with other people and makes it easy to collaborate on projects.</br> 
+     Team members can work on files and easily merge their changes in with the master branch of the project</p>
+     
+  <hi> Bye </h1>   
+</body>
+</html>
